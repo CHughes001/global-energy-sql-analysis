@@ -1,4 +1,4 @@
-# global-energy-sql-analysis
+# global-energy/urbanisation-sql-analysis
 
 Using two data sets from 'Our World in Data', I have chosen the following to focus on sustainability, energy and urbanisation: 
 
@@ -8,7 +8,8 @@ Using two data sets from 'Our World in Data', I have chosen the following to foc
     Energy Data:
       owid-energy-data.csv
 
-//
+**I aimed to answer the following 5 questions, extracting and manipulating from raw data in SQLite to visualisations in metabase:**
+
 How does urbanisation level correlate with energy consumption patterns?
 Are more urabnised counties transitiong to renewable energy faster?
 How does rate of urbanisation affect energy demand growth?
