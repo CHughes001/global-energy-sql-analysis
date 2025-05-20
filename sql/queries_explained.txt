@@ -1,4 +1,0 @@
-For 'energy_clean' and 'urbanization_clean', both raw data files where cleaned to produce tables with only needed columns.
-
-'urbanization_energy' sql query, combines the urbanization_clean and energy_clean data, matching country and year values.
-It selects various urbanisation and energy metrics. 
