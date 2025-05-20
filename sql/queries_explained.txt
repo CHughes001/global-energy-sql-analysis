@@ -1,0 +1,9 @@
+
+
+'energy_clean'
+
+'urbanization_clean'
+
+
+'urbanization_energy' sql query, combines the urbanization_clean and energy_clean data, matching country and year values.
+It selects various urbanisation and energy metrics. 
